@@ -26,7 +26,13 @@ Techs that I've used at least once
 
 ### 😎 ME 😎
 
-[![v](https://img.shields.io/badge/Tech_Blog-20C997?style=flat-square&logo=Velog&logoColor=white)](https://kworld.tistory.com/)   
+[![v](https://img.shields.io/badge/Tech_Blog-20C997?style=flat-square&logo=Tisytory&logoColor=white)](https://kworld.tistory.com/)
+</a> <a href="mailto:m.k.dec.2021@gmail.com">
+<img
+src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:m.k.dec.2021@gmail.com"
+style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+
 <!-- ![](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white) -->
 
 </div>
