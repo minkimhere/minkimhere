@@ -42,9 +42,9 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 <div align="center">
 
 [![MinjungKim's github stats](https://github-readme-stats.vercel.app/api?username=minkimhere&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minkimhere&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minkimhere&layout=compact&langs_count=6">
 
-  </div>
+</div>
 
 
 <!--
