@@ -22,7 +22,7 @@ Techs that I've used at least once
 ![](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white)  
   
 ![](https://img.shields.io/badge/JSONWebTokens-000000?style=flat-square&logo=JSONWebTokens&logoColor=white) ![](https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white) ![](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white) ![](https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=Sequelize&logoColor=white)
-
+ 
 
 ### 😎 ME 😎
 
@@ -43,8 +43,13 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 
 [![MinjungKim's github stats](https://github-readme-stats.vercel.app/api?username=minkimhere&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) <br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minkimhere&layout=compact&langs_count=6">
+  
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fminkimhere&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true"/></a>
 
 </div>
+
+
+
 
 
 <!--
